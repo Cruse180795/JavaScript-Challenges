@@ -1,0 +1,15 @@
+{
+    "name": "javascript-challenges",
+    "version": "1.0.0",
+    "description": "A Repo for the 70+ JavaScript Challenges Using Data Structures &amp; Algorithms",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
